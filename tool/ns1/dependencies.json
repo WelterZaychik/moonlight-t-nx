@@ -1,0 +1,8 @@
+[
+  {"repository":"XITRIX/borealis","revision":"ecd896f068efe1899c09cf7b14ba548507fe7cec","directory":"extern/borealis","archive":"borealis.tar.gz","sha256":"4d4c9b23be95bb0abcb7264b73b9534b3f1d9eb523423860123fd48aa6bf555c"},
+  {"repository":"XITRIX/moonlight-common-c","revision":"0f8d8f8a8ea174920790dfd46185483ccbe87a3a","directory":"extern/moonlight-common-c","archive":"common.tar.gz","sha256":"8b71b8d56c6de601e5f0d962e895710a893cb36226c9cc2b2a1c990d939993a3"},
+  {"repository":"XITRIX/CImg","revision":"31b93b7329eb76785204dac078f840c2ca9f6c83","directory":"extern/CImg","archive":"cimg.tar.gz","sha256":"920779b6b9973ef47a1569280d807b4657b967bc4fc9174f4cabd49059f7cac1"},
+  {"repository":"mjansson/mdns","revision":"a569c4759bd47e0f2a7bfc4d4c19620445782806","directory":"extern/mdns","archive":"mdns.tar.gz","sha256":"8a82a92bb025f3abcfb18e666c388aabc4730da3ba116b412d5c0ead466d33be"},
+  {"repository":"XITRIX/enet","revision":"49ea9f597c4fda48009a39e0e2c3804f11fd3506","directory":"extern/moonlight-common-c/enet","archive":"enet.tar.gz","sha256":"77fc7003a8699ade2d2893a3f65d7e5437d9c1414d457ab6d8b05487c0eeaa5a"},
+  {"repository":"ursoid-tech/nanors","revision":"a9b1636f9c98dbfdd0daeaf6982ccd24d1c30f29","directory":"extern/moonlight-common-c/nanors","archive":"nanors.tar.gz","sha256":"cb12a4598d5a99f6bcc4633b684fdac7a87c7d627a81d986080840c63fd2db0f"}
+]

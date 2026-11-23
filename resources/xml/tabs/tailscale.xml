@@ -1,0 +1,20 @@
+<brls:Box width="auto" height="auto">
+  <brls:ScrollingFrame width="auto" height="auto" grow="1.0">
+    <brls:Box width="10000" height="auto" axis="column" alignItems="stretch"
+      paddingTop="40" paddingRight="40" paddingBottom="40" paddingLeft="40">
+      <brls:Header title="Tailscale 组网 · Switch 1" />
+      <brls:Label id="status" fontSize="20" marginBottom="20" />
+      <brls:DetailCell id="enabled" title="启用 Tailscale 组网" />
+      <brls:DetailCell id="login" title="扫描二维码登录" />
+      <brls:Box id="qr_container" width="auto" height="auto" axis="column" />
+      <brls:Label id="login_url" fontSize="16" marginBottom="16" />
+      <brls:DetailCell id="auth_key" title="输入授权密钥" />
+      <brls:DetailCell id="control_url" title="控制服务器" />
+      <brls:DetailCell id="hostname" title="设备名称" />
+      <brls:DetailCell id="routes" title="接收子网路由" />
+      <brls:Header title="组网设备：选择 Sunshine 电脑进行配对" paddingTop="40" />
+      <brls:DetailCell id="refresh_peers" title="刷新组网设备列表" />
+      <brls:Box id="devices" width="auto" height="auto" axis="column" />
+    </brls:Box>
+  </brls:ScrollingFrame>
+</brls:Box>

@@ -1,0 +1,177 @@
+[
+  {
+    "file": "cmake.whl",
+    "kind": "cmake",
+    "url": "https://files.pythonhosted.org/packages/18/58/909d6d99acb4e0886d0f660cf4e0fb26f586590e370b2e4ce7a10d06b145/cmake-3.31.6-py3-none-win_amd64.whl",
+    "sha256": "bbaed969cef3c427f4f17591feb28db4ae595e3a4bbd45cb35522cee14df6a32",
+    "bytes": 36396448
+  },
+  {
+    "file": "deko3d-0.5.0-1-any.pkg.tar.zst",
+    "kind": "sdk",
+    "url": "https://wii.leseratte10.de/devkitPro/switch/deko3d-0.5.0-1-any.pkg.tar.zst",
+    "sha256": "d4281a573246c2e658c0a2619b78099d4016ad72d6210a1e13473a546e7f9ac3",
+    "bytes": 1235462
+  },
+  {
+    "file": "devkita64-binutils.pkg.tar.zst",
+    "kind": "sdk",
+    "url": "https://wii.leseratte10.de/devkitPro/devkitA64/r30%20%282026-06-10%29/devkita64-binutils-2.46.0-1-windows_x86_64.pkg.tar.zst",
+    "sha256": "c516a70a31521b61e18759669c6f5c6718796a6cbb0b3c1c023a2ac418f79988",
+    "bytes": 6380156
+  },
+  {
+    "file": "devkita64-cmake-1.1.3-1-any.pkg.tar.zst",
+    "kind": "sdk",
+    "url": "https://wii.leseratte10.de/devkitPro/cmake/devkita64-cmake-1.1.3-1-any.pkg.tar.zst",
+    "sha256": "f2baa41f2b776ea5e7c5340464d2ba1bcccbc73a96c3293c91ae13df9ee5d467",
+    "bytes": 5250
+  },
+  {
+    "file": "devkita64-gcc.pkg.tar.zst",
+    "kind": "sdk",
+    "url": "https://wii.leseratte10.de/devkitPro/devkitA64/r30%20%282026-06-10%29/devkita64-gcc-16.1.0-1-windows_x86_64.pkg.tar.zst",
+    "sha256": "4ccf7ee6f3d85248f3b58708e44aa3e9f777479ff90cd4409a95862752e85400",
+    "bytes": 93992028
+  },
+  {
+    "file": "devkita64-newlib-4.6.0.20260123-4-any.pkg.tar.zst",
+    "kind": "sdk",
+    "url": "https://wii.leseratte10.de/devkitPro/devkitA64/r29%20%282026-01%29/devkita64-newlib-4.6.0.20260123-4-any.pkg.tar.zst",
+    "sha256": "fc97ba1009a94b68f8714c3cc548ef697ca82687b72fe0c05a7ca3df81beb53e",
+    "bytes": 843202
+  },
+  {
+    "file": "devkita64-rules-1.1.1-1-any.pkg.tar.zst",
+    "kind": "sdk",
+    "url": "https://wii.leseratte10.de/devkitPro/devkitA64/devkita64-rules/devkita64-rules-1.1.1-1-any.pkg.tar.zst",
+    "sha256": "2649cf7827243447070073acc2aa2fee152a0592fc30e827ceed803c565a1ede",
+    "bytes": 5846
+  },
+  {
+    "file": "dkp-cmake-common-utils-1.5.3-1-any.pkg.tar.zst",
+    "kind": "sdk",
+    "url": "https://wii.leseratte10.de/devkitPro/cmake/dkp-cmake-common-utils-1.5.3-1-any.pkg.tar.zst",
+    "sha256": "9ddb64ff16962e6532d2a2bce1d7ae8eef4f6f5b859f145c2e58b87b7b164701",
+    "bytes": 8438
+  },
+  {
+    "file": "dkp-toolchain-vars-1.0.5-1-any.pkg.tar.zst",
+    "kind": "sdk",
+    "url": "https://wii.leseratte10.de/devkitPro/other-stuff/dkp-toolchain-vars-1.0.5-1-any.pkg.tar.zst",
+    "sha256": "e6e26af3147061090572b61c576114ee9a45d5ed8c77c7d93cc5f5559198c288",
+    "bytes": 7145
+  },
+  {
+    "file": "libnx-4.12.0-1-any.pkg.tar.zst",
+    "kind": "sdk",
+    "url": "https://wii.leseratte10.de/devkitPro/libnx/libnx-4.12.0-1-any.pkg.tar.zst",
+    "sha256": "c6950bdf8e4b872ece492225368c03e633776329548a7494f91aa1e8f239cd8a",
+    "bytes": 10347882
+  },
+  {
+    "file": "ninja.whl",
+    "kind": "ninja",
+    "url": "https://files.pythonhosted.org/packages/5b/10/9b8fe9ac004847490cc7b54896124c01ce2d87d95dc60aabd0b8591addff/ninja-1.11.1.4-py3-none-win_amd64.whl",
+    "sha256": "4617b3c12ff64b611a7d93fd9e378275512bb36eff8babff7c83f5116b4f8d66",
+    "bytes": 296461
+  },
+  {
+    "file": "pkgconf.pkg.tar.zst",
+    "kind": "pkgconf",
+    "url": "https://repo.msys2.org/mingw/ucrt64/mingw-w64-ucrt-x86_64-pkgconf-1~3.0.11-2-any.pkg.tar.zst",
+    "sha256": "68c157c7c19f9015b6b0b65cfef16046da6dd628aea816e2cdfe385b710263ad",
+    "bytes": 149408
+  },
+  {
+    "file": "rustup-init-mirror.exe",
+    "kind": "rustup",
+    "url": "https://rsproxy.cn/rustup/dist/x86_64-pc-windows-gnu/rustup-init.exe",
+    "sha256": "f6289656ce42e1099f3cbc6f10ef6321dfde54773faf599dd36fd3b1f07d9103",
+    "bytes": 14862151
+  },
+  {
+    "file": "switch-cmake-1.5.2-1-any.pkg.tar.zst",
+    "kind": "sdk",
+    "url": "https://wii.leseratte10.de/devkitPro/cmake/switch-cmake-1.5.2-1-any.pkg.tar.zst",
+    "sha256": "7eee6a98312991faac73246f93d88740fb234d90ac5bd19ca969d6e227a59c8f",
+    "bytes": 7969
+  },
+  {
+    "file": "switch-dav1d-1.5.0-1-any.pkg.tar.zst",
+    "kind": "sdk",
+    "url": "https://wii.leseratte10.de/devkitPro/switch/switch-dav1d-1.5.0-1-any.pkg.tar.zst",
+    "sha256": "612fa74cce39b1b7838d9d9b42bb4d1073fa8ccb6e4bbf092425190fa7826884",
+    "bytes": 437420
+  },
+  {
+    "file": "switch-glm.pkg.tar.xz",
+    "kind": "sdk",
+    "url": "https://wii.leseratte10.de/devkitPro/switch/switch-glm-0.9.9.7-2-any.pkg.tar.xz",
+    "sha256": "bd9ce098aaa948ec1b9a61d7a36e2a741cf920b6747f405809e7d4a82824c1db",
+    "bytes": 181028
+  },
+  {
+    "file": "switch-jansson-2.11-3-any.pkg.tar.zst",
+    "kind": "sdk",
+    "url": "https://wii.leseratte10.de/devkitPro/switch/switch-jansson-2.11-3-any.pkg.tar.zst",
+    "sha256": "1e9751d57d7983907970b608a94351f996da8b5b477eb3bdf18c77a192daaf2b",
+    "bytes": 43711
+  },
+  {
+    "file": "switch-libexpat-2.2.5-3-any.pkg.tar.zst",
+    "kind": "sdk",
+    "url": "https://wii.leseratte10.de/devkitPro/switch/switch-libexpat-2.2.5-3-any.pkg.tar.zst",
+    "sha256": "fe17058d4adc2c9f1420f6e83dad1c2ce80666d367fa28635a6b04d35a1a89dd",
+    "bytes": 177962
+  },
+  {
+    "file": "switch-libopus-1.3-2-any.pkg.tar.xz",
+    "kind": "sdk",
+    "url": "https://wii.leseratte10.de/devkitPro/switch/switch-libopus-1.3-2-any.pkg.tar.xz",
+    "sha256": "2ac5492f44a01fb96fcb7184680bc27054dcfab847288a78c3ead69a00961576",
+    "bytes": 223208
+  },
+  {
+    "file": "switch-libpng-1.6.48-1-any.pkg.tar.zst",
+    "kind": "sdk",
+    "url": "https://wii.leseratte10.de/devkitPro/switch/switch-libpng-1.6.48-1-any.pkg.tar.zst",
+    "sha256": "99ea23b88c00dc678fff4290064916d5795db1f7445829420b689b29ac0078ff",
+    "bytes": 180160
+  },
+  {
+    "file": "switch-libzstd-1.5.7-1-any.pkg.tar.zst",
+    "kind": "sdk",
+    "url": "https://wii.leseratte10.de/devkitPro/switch/switch-libzstd-1.5.7-1-any.pkg.tar.zst",
+    "sha256": "cc6364860dcc55d9f46b2da0ceda993c7727add5ab186fc3eea017b79ea8fe3c",
+    "bytes": 2494440
+  },
+  {
+    "file": "switch-mbedtls-2.28.10-1-any.pkg.tar.zst",
+    "kind": "sdk",
+    "url": "https://wii.leseratte10.de/devkitPro/switch/switch-mbedtls-2.28.10-1-any.pkg.tar.zst",
+    "sha256": "bf2b89236e280c5bfedab14826fc80566617a738034378c5917c40d7619143c9",
+    "bytes": 704655
+  },
+  {
+    "file": "switch-tools-1.13.1-1-windows_x86_64.pkg.tar.zst",
+    "kind": "sdk",
+    "url": "https://wii.leseratte10.de/devkitPro/switch/switch-tools-1.13.1-1-windows_x86_64.pkg.tar.zst",
+    "sha256": "c9c5fc60e3dd2f82d7c6592611bd37cc610d150ef4fa75fe09ce329df998084d",
+    "bytes": 161833
+  },
+  {
+    "file": "switch-zlib-1.3.1-1-any.pkg.tar.zst",
+    "kind": "sdk",
+    "url": "https://wii.leseratte10.de/devkitPro/switch/switch-zlib-1.3.1-1-any.pkg.tar.zst",
+    "sha256": "53cb5dc4006c96cd4195dabc15b46f07a63ad99c91939ce921db33556396442c",
+    "bytes": 228905
+  },
+  {
+    "file": "uam-1.1.0-2-windows_x86_64.pkg.tar.xz",
+    "kind": "sdk",
+    "url": "https://wii.leseratte10.de/devkitPro/switch/uam-1.1.0-2-windows_x86_64.pkg.tar.xz",
+    "sha256": "7765523b9912fd454bcbb1ccfb90d3569b7099d1bcb3ce5997bf31bd1d7c6858",
+    "bytes": 844196
+  }
+]
